@@ -1,4 +1,4 @@
-print("--- Beginner's Calculator ---")
+print("--- simple Calculator ---")
 print("Select an operation:")
 print("1. Add")
 print("2. Subtract")
